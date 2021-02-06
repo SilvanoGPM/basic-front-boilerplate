@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "reset": "git checkout -- . && git clean -f -d"
   },
   "repository": {
     "type": "git",
