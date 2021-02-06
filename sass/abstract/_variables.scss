@@ -23,11 +23,10 @@ $webfatorial-colors: (
 // dpw
 // ==========================================================================
 
-$dpw-colors: (
-  'dpw-primary'   : #3da6c8,
-  'dpw-secondary' : darken(#3da6c8, 12%),
+$sky-colors: (
+  'sky-primary'   : #6272a4,
+  'sky-secondary' : #bd93f9,
 );
-
 
 // Social Media
 // ==========================================================================
@@ -40,9 +39,6 @@ $social-media-colors: (
   'instagram' : #e4405f,
   'github'    : #333,
 );
-
-
-
 
 // ==========================================================================
 // Measures
@@ -73,8 +69,6 @@ $transition-function-ease-out-back    : cubic-bezier(.175, .885, .32, 1.275);
 $transition-function-ease-in-out-circ : cubic-bezier(.785, .135, .15, .86);
 $transition-function-ease-in-out-quint: cubic-bezier(.86, 0, .07, 1);
 $transition-function-elastic          : cubic-bezier(.175, .885, .41, 1.46);
-
-
 
 // ==========================================================================
 // Others

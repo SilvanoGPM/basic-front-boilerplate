@@ -10,21 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/desenvolvweb/basic-front-boilerplate.git"
+    "url": "git+https://github.com/SkyG0D/basic-front-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/desenvolvweb/basic-front-boilerplate/issues"
+    "url": "https://github.com/SkyG0D/basic-front-boilerplate/issues"
   },
-  "homepage": "https://github.com/desenvolvweb/basic-front-boilerplate#readme",
+  "homepage": "https://github.com/SkyG0D/basic-front-boilerplate#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nuke-dist": "^1.0.1",
-    "sass": "^1.23.3"
-  },
-  "browserslist": [
-    "last 2 Chrome versions"
-  ]
+    "sass": "^1.32.6"
+  }
 }

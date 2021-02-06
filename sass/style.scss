@@ -14,7 +14,7 @@
     --color-#{$name}: #{$color};
   }
 
-  @each $name, $color in $dpw-colors {
+  @each $name, $color in $sky-colors {
     --color-#{$name}: #{$color};
   }
 
